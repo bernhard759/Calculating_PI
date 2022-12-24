@@ -1,3 +1,3 @@
 ## Calculating pi inside the browser using pyscript
-This is a simple project calculating pi with pyscript in the browser. To calculate pi, we geneerate a buch of random points and check the ratio of points inside the circle to all the points.
+This is a simple project calculating pi with pyscript in the browser. To calculate pi, we generate a buch of random points and check the ratio of points inside the circle to all the points.
 To run this project in the browser, open the terminal inside the folder and type `python -m http.server` to start a dev server. You can also use the live server extension for vscode to run this project.
