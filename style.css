@@ -1,0 +1,27 @@
+body {
+    margin: 2em;
+    background-color: #F5F5F5;
+}
+
+div.pi-value {
+    font-size: xx-large;
+    margin: 1em;
+}
+
+div.output {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 2em;
+    padding: 2em;
+    background-color: white;
+    border: 1px solid silver;
+    border-radius: 16px;
+    min-height: 550px;
+}
+
+div.input-group {
+    max-width: 500px;
+    margin: 1em auto;
+}
